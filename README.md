@@ -1,10 +1,8 @@
 # HTB_challenges_write_ups
 
-Archive password = hackthebox
+Password = hackthebox
 
----
 ## Forensics
----
 
 - [x] [Deadly Arthropod](./forensics/deadly_arthropod/) - Our operatives have intercepted critical information. Origin? Classified. Objective: Retrieve the flag!
 - [X] [Alien Cradle](./forensics/alien_cradles/) - In an attempt for the aliens to find more information about the relic, they launched an attack targeting Pandora's close friends and partners that may know any secret information about it. During a recent incident believed to be operated by them, Pandora located a weird PowerShell script from the event logs, otherwise called PowerShell cradle. These scripts are usually used to download and execute the next stage of the attack. However, it seems obfuscated, and Pandora cannot understand it. Can you help her deobfuscate it?
@@ -12,9 +10,7 @@ Archive password = hackthebox
 - [X] [Extraterrestrial Persistence](./forensics/extraterrestrial_persistence/) - There is a rumor that aliens have developed a persistence mechanism that is impossible to detect. After investigating her recently compromised Linux server, Pandora found a possible sample of this mechanism. Can you analyze it and find out how they install their persistence?
 - [X] [Marshal in the Middle](./forensics/marshal_in_the_middle/) - The security team was alerted to suspicous network activity from a production web server. Can you determine if any data was stolen and what it was?
 
----
 ## Reverse
----
 
 - [x] [Snakecode](./reverse/snakecode/) - easy - We found this ancient text inscribed on a stone tablet. We believe it describes the history and technology of a mighty but extinct civilization, but we can't be certain as it's written in a dead language. Can you use your specialist knowledge to uncover the truth, and recover their technology?
 
@@ -52,8 +48,6 @@ Archive password = hackthebox
 
 - [] [Spell Weaving Exam](./reverse/spell_weaving_exam/) - hard - Turn your spellbooks over now - the final exam has begun! Under the watchful eye of a strict adjuducator, you must answer each question perfectly
 
----
 ## Mobile
----
 
 - [x] [APKrypt](./mobile/apkrypt/) - Can you get the ticket without the VIP code?
